@@ -48,3 +48,11 @@
   font-size: 30px;
     text-align: left;
 }
+
+.h1 {
+    text-align: left;
+}
+
+.h2 {
+    text-align: right;
+}
