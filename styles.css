@@ -1,20 +1,23 @@
 .body {
     text-align: center;
-    font-size: 30px;
+    background-image: url('images/wallpaper.jpg'); 
+        background-size: cover;
+        background-repeat: no-repeat; 
+        background-attachment: fixed;
     
 }
 
 
 .center {
     margin-top: 30px;
-    text-align: 30px;
-    text-align: left;
+    text-align: 35px;
 }
 
 
 .image-container {
-    display: flex;
+      display: flex;
     justify-content: center;
+    text-align: 25px;
 }
 
 
@@ -26,8 +29,8 @@
 
 
 .image-container img {
-    width: 200px;
-    height: 200px;
+    width: 350px;
+    height: 350px;
 }
 
 
@@ -36,27 +39,30 @@
 }
 
 .footer {
-    background-color: grey;
+     background-color: grey;
     padding: 70px;
     display: flex;
     justify-content: space-around;
-
-
 }
 
 .font {
-  font-size: 30px;
+    text-size: 30px;
     text-align: left;
 }
-
-.h1 {
-    text-align: left;
+.background {
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
 }
 
-.h2 {
-    text-align: left;
+.text-center { 
+    text-align;
 }
 
-.h3 {
-    text-align: center;
+.img {
+    align: left;
+}
+
+.img-left {
+    float: left;
 }
