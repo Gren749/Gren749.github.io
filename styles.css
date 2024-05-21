@@ -3,20 +3,28 @@
     font-size: 30px;
     
 }
+
+
 .center {
     margin-top: 30px;
     text-align: 30px;
     text-align: left;
 }
+
+
 .image-container {
     display: flex;
     justify-content: center;
 }
+
+
 .image-container a {
     margin: 25px;
     text-decoration: none;
     color: black;
 }
+
+
 .image-container img {
     width: 200px;
     height: 200px;
@@ -26,6 +34,7 @@
 .image-container p {
     margin: 10px 0;
 }
+
 .footer {
     background-color: grey;
     padding: 70px;
@@ -34,16 +43,20 @@
 
 
 }
+
 .font {
   font-size: 30px;
     text-align: left;
 }
+
 .h1 {
     text-align: left;
 }
+
 .h2 {
     text-align: left;
 }
+
 .h3 {
     text-align: center;
 }
