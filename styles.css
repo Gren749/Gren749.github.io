@@ -1,68 +1,49 @@
 .body {
     text-align: center;
-    background-image: url('images/wallpaper.jpg'); 
-        background-size: cover;
-        background-repeat: no-repeat; 
-        background-attachment: fixed;
+    font-size: 30px;
     
 }
-
-
 .center {
     margin-top: 30px;
-    text-align: 35px;
+    text-align: 30px;
+    text-align: left;
 }
-
-
 .image-container {
-      display: flex;
+    display: flex;
     justify-content: center;
-    text-align: 25px;
 }
-
-
 .image-container a {
     margin: 25px;
     text-decoration: none;
     color: black;
 }
-
-
 .image-container img {
-    width: 350px;
-    height: 350px;
+    width: 200px;
+    height: 200px;
 }
 
 
 .image-container p {
     margin: 10px 0;
 }
-
 .footer {
-     background-color: grey;
+    background-color: grey;
     padding: 70px;
     display: flex;
     justify-content: space-around;
-}
 
+
+}
 .font {
-    text-size: 30px;
+  font-size: 30px;
     text-align: left;
 }
-.background {
-    background-size: cover; 
-    background-repeat: no-repeat; 
-    background-attachment: fixed;
+.h1 {
+    text-align: left;
 }
-
-.text-center { 
-    text-align;
+.h2 {
+    text-align: left;
 }
-
-.img {
-    align: left;
-}
-
-.img-left {
-    float: left;
+.h3 {
+    text-align: center;
 }
